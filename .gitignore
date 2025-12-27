@@ -1,0 +1,16 @@
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+*.doc
+*.docx
+
+*/data
+*.pptx
+*.csv
+*.h5
+*.keras
+*.png
+*.jpg
+*.jpeg
+*.npz
+*.pth
