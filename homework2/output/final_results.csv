@@ -1,0 +1,7 @@
+video_path,predicted_label,blip_caption
+videos_test/D001_NAT_Video_S27.mp4,1,a large building with a lot of trees
+videos_test/D001_NAT_Video_S28.mp4,1,a large tree in the middle of a garden
+videos_test/D001_NAT_Video_S29.mp4,1,a green roof with bushes and bushes
+videos_test/D001_NAT_Video_S80.mp4,0,a white table with a phone on it
+videos_test/D001_NAT_Video_S81.mp4,0,a metal cup on a table
+videos_test/D001_NAT_Video_S82.mp4,0,a small orange table sitting in a corner
